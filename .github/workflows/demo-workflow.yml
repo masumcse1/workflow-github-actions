@@ -3,9 +3,7 @@ name: Java CI with Maven example
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    branches: [ main ]
 
 jobs:
 
